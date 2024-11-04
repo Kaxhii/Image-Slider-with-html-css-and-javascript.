@@ -1,3 +1,11 @@
+body .slides{
+
+ margin: 10% auto;
+}
+body{
+  background: #000;
+
+}
 /* (PART A) SHOW SELECTED SLIDE ONLY */
 .slides input[type="radio"] { display: none; }
 .slides figure {
